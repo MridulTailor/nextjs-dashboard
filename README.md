@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/MridulTailor/react-redux-authentication/assets/71081929/5c5a2d90-d529-4a0d-ba59-2a763836ff5b" />
+    </td>
+    <td>
+      <img src="https://github.com/MridulTailor/react-redux-authentication/assets/71081929/814ac898-8d38-4537-9a93-25750a4c5993" />
+    </td>
+  </tr>
+</table>
 ## Getting Started
 
 First, run the development server:
